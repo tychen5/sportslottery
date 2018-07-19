@@ -20,3 +20,4 @@ http://2018.tsmcfamilyday.com.tw/
 
 ## foreman case study
 https://www.theforeman.org/media.html#screencasts
+saltstack enterprise youtube
