@@ -8,5 +8,8 @@ Sports lottery with DL on *play sport's* prediction
 - https://www.paessler.com/support/getting-started
 - https://www.tripwire.com/products/tripwire-configuration-compliance-manager/
 
-## new solution
-https://docs.automox.com/
+## bring to hsinchu
+- big pack cookies
+
+## Linux monitor tools
+- https://blog.serverdensity.com/80-linux-monitoring-tools-know/
