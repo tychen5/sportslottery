@@ -6,6 +6,7 @@ Sports lottery with DL on *play sport's* prediction
 - https://www.theforeman.org/media.html#screencasts
 - saltstack enterprise youtube
 - https://www.paessler.com/support/getting-started
+- https://www.tripwire.com/products/tripwire-configuration-compliance-manager/
 
 ## new solution
 https://docs.automox.com/
