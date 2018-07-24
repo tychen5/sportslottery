@@ -16,3 +16,12 @@ Sports lottery with DL on *play sport's* prediction
 
 ## yum pip
 - curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+
+* sudo python get-pip.py
+
+
+* yum install -y python-devel libxslt-devel  libxml2-devel libxml2 libxslt
+
+* sudo pip install django-bootstrap3==7.0.1 django-extensions==1.6.1 django-tagging==0.4.1 progressbar==2.3 python-debian==0.1.23 lxml==3.5.0
+
+* sudo ./setup.py install
