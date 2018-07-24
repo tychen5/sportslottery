@@ -13,3 +13,6 @@ Sports lottery with DL on *play sport's* prediction
 
 ## Linux monitor tools
 - https://blog.serverdensity.com/80-linux-monitoring-tools-know/
+
+## yum pip
+- curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
