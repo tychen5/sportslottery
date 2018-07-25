@@ -14,14 +14,11 @@ Sports lottery with DL on *play sport's* prediction
 ## Linux monitor tools
 - https://blog.serverdensity.com/80-linux-monitoring-tools-know/
 
-## yum pip
-- curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+## malware multi tagging DL
+* https://pdfs.semanticscholar.org/1df2/fef528ba69f340b01c9133199650a47f2ead.pdf
+* https://arxiv.org/pdf/1711.08336.pdf
+* https://arxiv.org/pdf/1806.10741.pdf
+* https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8280788 (7頁，很多數學)
+* Deep Neural Network Based Malware Detection Using Two ... (??)
 
-* sudo python get-pip.py
-
-
-* yum install -y python-devel libxslt-devel  libxml2-devel libxml2 libxslt Cython
-
-* sudo pip install django-bootstrap3==7.0.1 django-extensions==1.6.1 django-tagging==0.4.1 progressbar==2.3 python-debian==0.1.23 lxml==3.5.0
-
-* sudo ./setup.py install
+- https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf (anti-detection by ML using RL)
