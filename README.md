@@ -19,6 +19,6 @@ Sports lottery with DL on *play sport's* prediction
 * https://arxiv.org/pdf/1711.08336.pdf
 * https://arxiv.org/pdf/1806.10741.pdf
 * https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8280788 (7頁，很多數學)
-* Deep neural network based malware detection using two dimensional binary program features  (https://ieeexplore.ieee.org/document/7413680/): 
+* Deep neural network based malware detection using two dimensional binary program features  (https://ieeexplore.ieee.org/document/7413680/): 靜態分析PE import、metadata分析，detection
 
 - https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf (anti-detection by ML using RL)
