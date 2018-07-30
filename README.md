@@ -15,7 +15,8 @@ Sports lottery with DL on *play sport's* prediction
 - https://blog.serverdensity.com/80-linux-monitoring-tools-know/
 
 ## malware multi tagging DL
-* https://pdfs.semanticscholar.org/1df2/fef528ba69f340b01c9133199650a47f2ead.pdf
+* MtNet: A Multi-Task Neural Network for
+Dynamic Malware Classification (https://pdfs.semanticscholar.org/1df2/fef528ba69f340b01c9133199650a47f2ead.pdf) : binary classification of benign or malware
 * https://arxiv.org/pdf/1711.08336.pdf
 * https://arxiv.org/pdf/1806.10741.pdf
 * https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8280788 (7頁，很多數學)
