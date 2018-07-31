@@ -22,5 +22,6 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 * Robust Neural Malware Detection Models for Emulation Sequence Learning (https://arxiv.org/pdf/1806.10741.pdf): event sequence learning (O)
 * A Deep Neuro-Fuzzy method for multi-label malware classification and fuzzy rules extraction(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8280788) (7頁，很多數學): 
 * Deep neural network based malware detection using two dimensional binary program features  (https://ieeexplore.ieee.org/document/7413680/): 靜態分析PE import、metadata分析，detection
-
+* AVCLASS: A Tool for Massive Malware Labeling (https://software.imdea.org/~juanca/papers/avclass_raid16.pdf): 
+* Better Malware Ground Truth: Techniques for Weighting Anti-Virus Vendor Labels (https://www1.icsi.berkeley.edu/~mct/pubs/aisec15.pdf): 
 - https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf (anti-detection by ML using RL)
