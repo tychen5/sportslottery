@@ -25,3 +25,7 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 * AVCLASS: A Tool for Massive Malware Labeling (https://software.imdea.org/~juanca/papers/avclass_raid16.pdf): 
 * Better Malware Ground Truth: Techniques for Weighting Anti-Virus Vendor Labels (https://www1.icsi.berkeley.edu/~mct/pubs/aisec15.pdf): 
 - https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf (anti-detection by ML using RL)
+
+## Movie ##
+- 現在很想見你 日本版
+- 六弄
