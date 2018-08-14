@@ -8,6 +8,9 @@ Sports lottery with DL on *play sport's* prediction
 - https://www.paessler.com/support/getting-started
 - https://www.tripwire.com/products/tripwire-configuration-compliance-manager/
 
+AWS
+- https://s3.console.aws.amazon.com/s3/buckets/tsmc-ds/?region=ap-northeast-1&tab=overview#
+
 ## bring to hsinchu
 - big pack cookies
 
