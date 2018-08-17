@@ -30,6 +30,7 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 - https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf (anti-detection by ML using RL)
 
 **DBN、RBN**: https://codeburst.io/deep-learning-deep-belief-network-fundamentals-d0dcfd80d7d4
+* https://docs.google.com/presentation/d/1geaE5NkIEmqf_LzgUbTjjD-yI6L4IIiTwhwC17WQkJA/edit?usp=sharing
 
 ## Movie ##
 - 現在很想見你 日本版
