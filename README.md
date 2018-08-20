@@ -39,3 +39,5 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 ## Deep Sign ##
 - 介紹: autoencoder(encoder decoder)、DBN/RBN、unigram(1-gram) extraction、TSNE、L2 penalty、SVM clf、KNN(k=1)
 - 目的: 產生signature、分類
+
+貓咪 : 台積總機再轉7321396
