@@ -13,6 +13,7 @@ AWS
 - http://email.chef.io/Y04NT0apE00DQ001eFV0lB9
 
 - remove spacewalk client:   sudo yum remove -y  rhn* osad spacewalk* yum-rhn-plugin
+-  yum install rhncfg rhncfg-actions rhncfg-client.
 
 ## bring to hsinchu
 - big pack cookies
