@@ -15,6 +15,8 @@ AWS
 - remove spacewalk client:   sudo yum remove -y  rhn* osad spacewalk* yum-rhn-plugin
 -  yum install rhncfg rhncfg-actions rhncfg-client.
 
+- 醫體的羽球場 https://www.ptt.cc/bbs/NTU/M.1338137778.A.F67.html
+
 ## bring to hsinchu
 - big pack cookies
 
