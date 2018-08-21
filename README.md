@@ -11,6 +11,9 @@ Sports lottery with DL on *play sport's* prediction
 AWS
 - https://s3.console.aws.amazon.com/s3/buckets/tsmc-ds/?region=ap-northeast-1&tab=overview#
 - http://email.chef.io/Y04NT0apE00DQ001eFV0lB9
+
+- remove spacewalk client:   sudo yum remove -y  rhn* osad spacewalk* yum-rhn-plugin
+
 ## bring to hsinchu
 - big pack cookies
 
