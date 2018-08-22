@@ -53,3 +53,5 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 
 銀行: 822中信
 帳號: 81055+工號
+
+https://www.youtube.com/watch?v=8M1Z009vYLY
