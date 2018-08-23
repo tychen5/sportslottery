@@ -48,10 +48,8 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 
 貓咪 : 台積總機再轉7321396
 
-於8/24前依公告程序完成轉帳，並於8/31辦理離職時繳交"轉帳之交易明細表"以完成離職手續。 (若提前辦理離職手續亦須繳交"轉帳交易明細表")
-:2000
 
-銀行: 822中信
-帳號: 81055+工號
+
 
 https://www.youtube.com/watch?v=8M1Z009vYLY
+https://www.linode.com/docs/applications/configuration-management/install-a-chef-server-workstation-on-ubuntu-18-04/
