@@ -1,7 +1,14 @@
 # Sports Lottery-運彩DNN
 Sports lottery with DL on *play sport's* prediction
 
+# Possible Tools
+* bs4 (BeautifulSoup)
+* XPath
+* scrapy
+* 動態(js): Selenium 
 
+
+***
 ## foreman case study
 - https://www.theforeman.org/media.html#screencasts
 - saltstack enterprise youtube
@@ -17,8 +24,6 @@ AWS
 
 - 醫體的羽球場 https://www.ptt.cc/bbs/NTU/M.1338137778.A.F67.html
 
-## bring to hsinchu
-- big pack cookies
 
 ## Linux monitor tools
 - https://blog.serverdensity.com/80-linux-monitoring-tools-know/
@@ -38,15 +43,11 @@ Signature Generation and Classification (https://arxiv.org/pdf/1711.08336.pdf): 
 **DBN、RBN**: https://codeburst.io/deep-learning-deep-belief-network-fundamentals-d0dcfd80d7d4
 * https://docs.google.com/presentation/d/1geaE5NkIEmqf_LzgUbTjjD-yI6L4IIiTwhwC17WQkJA/edit?usp=sharing
 
-## Movie ##
-- 現在很想見你 日本版
-- mad max
 
 ## Deep Sign ##
 - 介紹: autoencoder(encoder decoder)、DBN/RBN、unigram(1-gram) extraction、TSNE、L2 penalty、SVM clf、KNN(k=1)
 - 目的: 產生signature、分類
 
-貓咪 : 台積總機再轉7321396
 
 
 
